@@ -1,6 +1,6 @@
-# Space-x Ruby API Integration
+# SpaceX Ruby API Integration
 
-Este projeto faz uma integração simples da API de lançamentos da Space-X em Ruby, sendo o back-end o meu lado a ser desenvolvido eu optei por fazer um projeto simples.
+Este projeto faz uma integração simples da API de lançamentos da SpaceX em Ruby, sendo o back-end o meu lado a ser desenvolvido eu optei por fazer um projeto simples.
 
 # Especificações
 
